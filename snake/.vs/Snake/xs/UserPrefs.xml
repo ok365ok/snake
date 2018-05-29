@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{969BBEBD-17DD-41B6-8849-BB14A4C4EE6E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="snake/Point.cs">
     <Files>
-      <File FileName="snake/Program.cs" Line="3" Column="2" />
-      <File FileName="snake/Point.cs" Line="7" Column="10" />
+      <File FileName="snake/Program.cs" Line="24" Column="2" />
+      <File FileName="snake/Point.cs" Line="16" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
