@@ -1,0 +1,11 @@
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/obj/Debug/netcoreapp2.0/snake.csprojResolveAssemblyReference.cache
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/obj/Debug/netcoreapp2.0/snake.csproj.CoreCompileInputs.cache
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/obj/Debug/netcoreapp2.0/snake.AssemblyInfoInputs.cache
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/obj/Debug/netcoreapp2.0/snake.AssemblyInfo.cs
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/bin/Debug/netcoreapp2.0/snake.deps.json
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/bin/Debug/netcoreapp2.0/snake.runtimeconfig.json
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/bin/Debug/netcoreapp2.0/snake.runtimeconfig.dev.json
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/bin/Debug/netcoreapp2.0/snake.dll
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/bin/Debug/netcoreapp2.0/snake.pdb
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/obj/Debug/netcoreapp2.0/snake.dll
+/Users/MF/Desktop/PROG/smartGit/snake/snake/snake/obj/Debug/netcoreapp2.0/snake.pdb
