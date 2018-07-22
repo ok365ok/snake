@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{969BBEBD-17DD-41B6-8849-BB14A4C4EE6E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="snake/Figure.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="snake/Direction.cs">
     <Files>
       <File FileName="snake/Program.cs" Line="22" Column="51" />
       <File FileName="snake/Point.cs" Line="13" Column="25" />
-      <File FileName="snake/HorizontalLine.cs" Line="14" Column="10" />
-      <File FileName="snake/VerticalLine.cs" Line="5" Column="30" />
-      <File FileName="snake/Figure.cs" Line="5" Column="30" />
+      <File FileName="snake/HorizontalLine.cs" Line="9" Column="34" />
+      <File FileName="snake/VerticalLine.cs" Line="8" Column="2" />
+      <File FileName="snake/Figure.cs" Line="9" Column="17" />
+      <File FileName="snake/Snake.cs" Line="13" Column="13" />
+      <File FileName="snake/Direction.cs" Line="9" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

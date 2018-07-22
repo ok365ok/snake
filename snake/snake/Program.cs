@@ -17,12 +17,15 @@ namespace snake
             p2.Draw();
 
             HorizontalLine line = new HorizontalLine(5, 10, 8, '+');
-            line.Drow();
+            line.Draw();
 
             VerticalLine line2 = new VerticalLine(5, 10, 8, '+');
-            line2.Drow();
+            line2.Draw();
 
-            Console.ReadLine();
+            // отрисовка точек
+            Point p = new Point(4, 5, '*');
+            Snake snake = new Snake(p, 4, Direction.RIGHT);
+            snake.Draw();
         }
     }
 }
